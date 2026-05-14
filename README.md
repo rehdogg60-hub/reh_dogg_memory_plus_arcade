@@ -76,6 +76,7 @@ INSTALLATION
 ====================================
 
 No installation required.
+Play game: https://rehdogg60-hub.github.io/reh_dogg_memory_plus_arcade/
 
 Simply:
 1. Extract ZIP package
